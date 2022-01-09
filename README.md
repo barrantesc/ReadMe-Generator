@@ -1,9 +1,11 @@
 # README-Generator
 
 ## Description
-A command line application that auto populates a professional README.md files for a repository. When the application is run, the user gets prompted with a series of questions about their project. Then, a README file will populate inside the "demo" folder.
+A command line application that auto populates a professional README file for a repository. When the application is run, the user gets prompted with a series of questions about their project. Then, a README file will populate inside the output folder "demo".
 
-## Visual Presentation
+[View README](https://barrantesc.github.io/ReadMe-Generator/)
+
+[Visual Presentation](https://watch.screencastify.com/v/n7sdqrMF0zanmBInke8d)
 
 ## Table of Contents
 * [Technologies](#Technologies)
@@ -18,17 +20,26 @@ A command line application that auto populates a professional README.md files fo
 * Inquirer.js
 
 ## Installation
-* To install dependencies, run the following command: npm i 
+* To install dependencies, run the following command: 
+`
+npm i 
+`
 
 ## Usage
-* After installation, run the application with: node index.js
+* After installation, run the application with: 
+`
+node index.js
+`
 
 ## License
 * This repository does not have a current license.
 
 
 ## Test
-* To test the application, un the following command: npm run test
+* To test the application, un the following command: 
+`
+npm run test
+`
 
 ## Contribution
 * Made with ❤️ by Connie Barrantes

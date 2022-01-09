@@ -1,10 +1,10 @@
-# s
+# Demonstration Project
 
 ## Licensing:
-![License](https://img.shields.io/badge/license-Apache_2.0-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-s
+This is only a demostration to show you how to use the readme-generator.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,7 +15,7 @@ s
 
 
 ## License
-This repository is under the Apache_2.0 license.
+This repository is under the MIT license.
 
 ## Installation
 npm i
@@ -24,11 +24,11 @@ npm i
 npm run test
 
 ## Usage
-
+This is just a demonstration.
 
 ## Contribution
-
+This is just a demonstration. No constributions needed.
 
 ## Questions
-### If you have any question please contact me at . View more of my work at [s](https://github.com/s)
+### If you have any question please contact me at sample@gmail.com. View more of my work at [barrantesc](https://github.com/barrantesc)
 
