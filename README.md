@@ -1,34 +1,38 @@
-# d
-
-## Licensing:
-[![license](https://img.shields.io/badge/license-Apache 2.0-blue)]
-
-## Table of Contents
-* [Description](#description)
-* [License](#license)
-* [Installation](#installation)
-* [Test](#test)
-* [Usage](#usage)
-* [Contribution](#contribution)
+# README-Generator
 
 ## Description
-d
+A command line application that auto populates a professional README.md files for a repository. When the application is run, the user gets prompted with a series of questions about their project. Then, a README file will populate inside the "demo" folder.
 
-## License
-Apache 2.0
+## Visual Presentation
+
+## Table of Contents
+* [Technologies](#Technologies)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [License](#license)
+* [Test](#test)
+
+## Technologies
+* Node.js
+* Inquirer.js
 
 ## Installation
-npm i
-
-## Test
-npm run test
+* To install dependencies, run the following command: npm i 
 
 ## Usage
+* After installation, run the application with: node index.js
 
+## License
+* This repository does not have a current license.
+
+
+## Test
+* To test the application, un the following command: npm run test
 
 ## Contribution
-
+* Made with ❤️ by Connie Barrantes
 
 ## Questions
-### If you have any question please contact me at . View more of my work at [d](https://github.com/d)
+* If you have any question please contact me at [connie.s.barrantes@gmail.com](mailto:connie.s.barrantes@gmail.com). View more of my work at [barrantesc](https://github.com/barrantesc)
 

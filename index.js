@@ -66,11 +66,11 @@ const questions = () => {
             name: 'license',
             message: 'Please choose a license for your project',
             choices: [
-                'Apache 2.0',
-                'BSD 3-clause',
-                'GNU v3',
+                'Apache_2.0',
+                'Boost_1.0',
+                'BSD_3-clause',
                 'MIT',
-                'Mozilla Public License 2.0',
+                'Mozilla_Public_License_2.0',
                 'Unlicensed'
             ]
         },
